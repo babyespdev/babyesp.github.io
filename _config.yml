@@ -1,0 +1,15 @@
+title: "Baby ESP App"
+description: "Track your baby's eating, sleeping & diapers — and know what's coming next."
+
+# Uses the remote theme plugin to bypass old GitHub native restrictions
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+
+# Forces the theme into dark mode (use "auto" if you want it to match system preferences)
+minima:
+  skin: dark
+
+# Keeps your Markdown parsing crisp and standardized
+markdown: kramdown
+highlighter: rouge
