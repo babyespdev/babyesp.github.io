@@ -1,4 +1,9 @@
-# Baby ESP — Privacy Policy
+---
+layout: default
+title: Privacy Policy
+---
+
+# Privacy Policy
 
 **Last updated:** May 20, 2026
 
